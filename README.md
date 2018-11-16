@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://mageshwaranr.visualstudio.com/NET%20Core/_apis/build/status/Mageshwaran4848.pipelines-dotnet-core)](https://mageshwaranr.visualstudio.com/NET%20Core/_build/latest?definitionId=7)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
